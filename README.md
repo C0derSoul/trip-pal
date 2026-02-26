@@ -97,4 +97,4 @@ python src/query.py
 
 ## Learning resources
 
-Follow the full build process on the [Coder Soul blog](https://codersoul.com)
+Follow the full build process on the [Coder Soul blog](https://blog.codersoul.com)
